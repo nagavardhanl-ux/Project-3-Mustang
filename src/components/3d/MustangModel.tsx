@@ -1,4 +1,4 @@
-﻿import React, { Suspense, useState, useEffect } from 'react';
+import React, { Suspense, useState, useEffect } from 'react';
 import { useGLTF } from '@react-three/drei';
 import { ProceduralMach1 } from './ProceduralMach1';
 import * as THREE from 'three';
@@ -58,7 +58,7 @@ export const MustangModel: React.FC<MustangModelProps> = ({
       return;
     }
 
-    const defaultUrl = '/models/mustang_mach1.glb';
+    const defaultUrl = 'models/mustang_mach1.glb';
     fetch(defaultUrl, { method: 'HEAD' })
       .then((res) => {
         if (res.ok && res.headers.get('content-type')?.includes('octet-stream')) {

@@ -12,7 +12,7 @@ export function RacingPage() {
       <section className="relative py-20 sm:py-28 border-b border-white/10 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="/images/mustangs/1969-boss302-transam-racing.jpg"
+            src="images/mustangs/1969-boss302-transam-racing.jpg"
             alt="Mustang Trans-Am Racing"
             className="w-full h-full object-cover object-center filter saturate-75 contrast-125 opacity-30"
           />
@@ -64,7 +64,7 @@ export function RacingPage() {
             className="lg:col-span-6 relative rounded-xl overflow-hidden border border-white/10 group cursor-pointer shadow-2xl"
           >
             <img
-              src="/images/mustangs/1965-mustang-wimbledon-white.jpg"
+              src="images/mustangs/1965-mustang-wimbledon-white.jpg"
               alt="1964 Tour de France Mustang"
               className="w-full h-80 sm:h-96 object-cover group-hover:scale-105 transition-transform duration-700"
             />
@@ -122,7 +122,7 @@ export function RacingPage() {
                 className="relative rounded-lg overflow-hidden border border-white/15 cursor-pointer group shadow-2xl"
               >
                 <img
-                  src="/images/mustangs/1969-boss302-transam-racing.jpg"
+                  src="images/mustangs/1969-boss302-transam-racing.jpg"
                   alt="Trans-Am Boss 302 Laguna Seca"
                   className="w-full h-80 object-cover group-hover:scale-105 transition-transform duration-500"
                 />

@@ -8,7 +8,7 @@ export const HISTORY_CHAPTERS: HistoryChapter[] = [
     title: 'The Idea: A Car for the Post-War Generation',
     subtitle: 'Lee Iacocca’s Fairlane Committee and the Baby Boomer Demographic',
     period: 'Early 1960s',
-    image: '/images/mustangs/1965-mustang-wimbledon-white.jpg',
+    image: 'images/mustangs/1965-mustang-wimbledon-white.jpg',
     leadParagraph: 'In the dawn of the 1960s, Ford Vice President and General Manager Lee Iacocca recognized an irreversible demographic tidal wave: millions of post-World War II baby boomers were entering driving age, demanding an entirely new type of automobile.',
     body: [
       'Meeting informally at the Fairlane Inn in Dearborn, Michigan, a clandestine group of young Ford executives, product planners, and designers—dubbed the "Fairlane Committee"—sought to formulate an affordable, sporty four-seater that appealed to youth culture while remaining practical enough for everyday commuting.',
@@ -35,7 +35,7 @@ export const HISTORY_CHAPTERS: HistoryChapter[] = [
     title: 'Mustang I Concept: The Mid-Engine Experimental Roadster',
     subtitle: 'Aluminum Tubular Spaceframe and German V4 Power',
     period: 'Fall 1962',
-    image: '/images/mustangs/1967-shelby-gt500-blue.jpg',
+    image: 'images/mustangs/1967-shelby-gt500-blue.jpg',
     leadParagraph: 'Before it was a four-seat coupe, the Mustang name first appeared on an exotic mid-engine two-seat speedster designed to test public appetite for an adventurous Ford sports car.',
     body: [
       'Built in just 100 days by Troutman-Barnes of Culver City, California, the Mustang I Concept featured an ultra-low tubular steel spaceframe clothed in aerodynamic aluminum bodywork, an integrated roll bar, and retractable hidden headlamps.',
@@ -100,7 +100,7 @@ export const HISTORY_CHAPTERS: HistoryChapter[] = [
     title: 'The 1964 Launch: The New York World’s Fair',
     subtitle: 'Simultaneous Television Roadblocks and Global Pandemonium',
     period: 'April 17, 1964',
-    image: '/images/mustangs/1965-mustang-wimbledon-white.jpg',
+    image: 'images/mustangs/1965-mustang-wimbledon-white.jpg',
     leadParagraph: 'On the morning of Friday, April 17, 1964, the Ford Mustang made its global public debut at the New York World’s Fair in Flushing Meadows, accompanied by the most comprehensive media campaign in marketing history.',
     body: [
       'The night prior, Ford purchased commercial time simultaneously across all three major television networks (CBS, NBC, ABC) at 9:30 PM, reaching an estimated 29 million households in a synchronized roadblock.',
@@ -126,7 +126,7 @@ export const HISTORY_CHAPTERS: HistoryChapter[] = [
     title: 'Early Success: One Million Mustangs in 23 Months',
     subtitle: 'A New Cultural Touchstone and the Birth of Options-Driven Personalization',
     period: '1964 – 1966',
-    image: '/images/mustangs/1967-shelby-gt500-blue.jpg',
+    image: 'images/mustangs/1967-shelby-gt500-blue.jpg',
     leadParagraph: 'Ford originally projected first-year sales of roughly 100,000 units. Instead, the Mustang shattered every automotive sales record in history, delivering 418,812 units in its first twelve months.',
     body: [
       'By March 1966, the one-millionth Mustang rolled off the Dearborn assembly line—achieved in just 23 months. It was a cultural triumph, starring alongside Sean Connery in James Bond’s Goldfinger and appearing on thousands of songs, films, and college campuses.',
@@ -186,7 +186,7 @@ export const HISTORY_CHAPTERS: HistoryChapter[] = [
     title: 'Fox Body: Aerodynamics, Modularity, and the "5.0" Lore',
     subtitle: 'Fifteen Years of Street Dominance and Aftermarket Mania',
     period: '1979 – 1993',
-    image: '/images/mustangs/1965-mustang-wimbledon-white.jpg',
+    image: 'images/mustangs/1965-mustang-wimbledon-white.jpg',
     leadParagraph: 'In 1979, Ford unleashed the clean-sheet Fox platform. Featuring lightweight European aerodynamic styling and MacPherson strut suspension, it became the longest-lived and most modified architecture in Mustang history.',
     body: [
       'When Ford advertising announced "The Boss Is Back" in 1982 with the 157-hp High-Output 5.0-liter V8, it ignited a modern American horsepower renaissance.',
@@ -228,7 +228,7 @@ export const HISTORY_CHAPTERS: HistoryChapter[] = [
     title: 'Modern Mustang Revival: S197 Retro-Futurism',
     subtitle: 'J Mays, Hau Thai-Tang, and Reclaiming the Fastback Silhouette',
     period: 'Mid-2000s',
-    image: '/images/mustangs/1967-shelby-gt500-blue.jpg',
+    image: 'images/mustangs/1967-shelby-gt500-blue.jpg',
     leadParagraph: 'Unveiled for the 2005 model year on the bespoke D2C platform, the S197 Mustang shocked the automotive world with its unabashed, masterfully executed retro-futuristic proportions.',
     body: [
       'Featuring a forward-canted shark nose, round grille fog lights, and 1969 fastback roofline, the S197 sparked an industry-wide retro revolution that forced rivals Chevrolet and Dodge to rush the Camaro and Challenger back into production.',
@@ -269,7 +269,7 @@ export const HISTORY_CHAPTERS: HistoryChapter[] = [
     title: 'Shelby Performance Era: Flat-Plane Crank Purity and Supercharged Terror',
     subtitle: 'Voodoo 8,250 RPM Screamer and Predator 760-HP Supercar',
     period: 'Late 2010s',
-    image: '/images/mustangs/1965-mustang-wimbledon-white.jpg',
+    image: 'images/mustangs/1965-mustang-wimbledon-white.jpg',
     leadParagraph: 'Ford Performance pushed the Mustang badge into genuine supercar territory with two of the most technically audacious Shelby halo cars ever conceived.',
     body: [
       'The 2016 Shelby GT350 shocked purists by adopting a motorsport-derived 5.2-liter "Voodoo" V8 featuring a flat-plane crankshaft. Redlining at an astronomical 8,250 RPM, its operatic shriek and MagneRide damping challenged Porsche 911 GT3s on road courses.',
@@ -289,7 +289,7 @@ export const HISTORY_CHAPTERS: HistoryChapter[] = [
     title: 'S550: The Independent Rear Suspension & The Global Stage',
     subtitle: 'Exporting the American Icon to Over 140 Countries',
     period: '2015 – 2023',
-    image: '/images/gallery/ingaklas-automobile-3344988_1920.jpg',
+    image: 'images/gallery/ingaklas-automobile-3344988_1920.jpg',
     leadParagraph: 'For its 50th anniversary in 2015, Ford transformed the Mustang into a true world sports car on the S550 chassis, equipping it with standard independent rear suspension and right-hand drive for global markets.',
     body: [
       'Engineered with integral-link rear suspension and double-ball-joint front MacPherson struts, the S550 cured the bumpy corner-exit unpredictability of historic solid-axle Mustangs.',
@@ -329,7 +329,7 @@ export const HISTORY_CHAPTERS: HistoryChapter[] = [
     title: 'Mustang Today: Global GT3 Racing and the 815-HP GTD Supercar',
     subtitle: 'Sixty Years of Unbroken Heritage Charging Toward the Nürburgring',
     period: 'Future & Legacy',
-    image: '/images/mustangs/1967-shelby-gt500-blue.jpg',
+    image: 'images/mustangs/1967-shelby-gt500-blue.jpg',
     leadParagraph: 'Sixty years after its April 1964 birth, the Mustang stands as the sole surviving continuous American muscle car. Far from slowing down, Ford has pushed the nameplate onto the highest stages of global motorsport.',
     body: [
       'In 2024, Ford returned to the 24 Hours of Le Mans with the factory Mustang GT3, securing a podium finish on its maiden international outing.',

@@ -13,7 +13,7 @@ export const RACING_EVENTS: RacingEvent[] = [
     championship: 'Manufacturer Championship Round 11 of 12',
     distance: '100.8 miles (53 laps of 1.9-mile road course)',
     conditions: 'Dry, sunny, 72°F track temp, high coastal track grip',
-    heroImage: '/images/mustangs/1969-boss302-transam-racing.jpg',
+    heroImage: 'images/mustangs/1969-boss302-transam-racing.jpg',
     mustang: {
       model: '1969 Bud Moore Boss 302 Trans-Am Racer',
       year: 1969,
@@ -79,12 +79,12 @@ export const RACING_EVENTS: RacingEvent[] = [
     },
     gallery: [
       {
-        url: '/images/mustangs/1969-boss302-transam-racing.jpg',
+        url: 'images/mustangs/1969-boss302-transam-racing.jpg',
         category: 'race',
         caption: 'Parnelli Jones sliding the Boss 302 through the apex at Laguna Seca.',
       },
       {
-        url: '/images/mustangs/1967-shelby-gt500-blue.jpg',
+        url: 'images/mustangs/1967-shelby-gt500-blue.jpg',
         category: 'car',
         caption: 'The No. 15 Bud Moore School Bus Yellow Boss 302 in the Monterey paddock.',
       },
@@ -114,7 +114,7 @@ export const RACING_EVENTS: RacingEvent[] = [
     championship: 'Touring Class (Tourisme)',
     distance: '3,700 miles across 9 circuit races and 8 mountain hill climbs',
     conditions: 'Mixed: torrential rain in the Alps, tarmac hillclimbs, high-speed sprints at Reims and Le Mans',
-    heroImage: '/images/mustangs/1965-mustang-wimbledon-white.jpg',
+    heroImage: 'images/mustangs/1965-mustang-wimbledon-white.jpg',
     mustang: {
       model: '1964½ Alan Mann Racing Mustang Hardtop 289',
       year: 1964,
@@ -171,7 +171,7 @@ export const RACING_EVENTS: RacingEvent[] = [
     },
     gallery: [
       {
-        url: '/images/mustangs/1965-mustang-wimbledon-white.jpg',
+        url: 'images/mustangs/1965-mustang-wimbledon-white.jpg',
         category: 'race',
         caption: 'The Alan Mann red and gold Mustang hardtop conquering the French mountain roads.',
       },
@@ -287,7 +287,7 @@ export const RACING_CATEGORIES = [
     id: 'trans-am',
     title: 'Trans-Am Golden Era',
     era: '1966 – 1972',
-    image: '/images/mustangs/1969-boss302-transam-racing.jpg',
+    image: 'images/mustangs/1969-boss302-transam-racing.jpg',
     description: 'The supreme battleground of American road racing. Factory teams from Ford, Chevrolet, AMC, and Plymouth fought wheel-to-wheel on road courses across the continent.',
     highlights: ['1970 Manufacturer Championship', 'Bud Moore Boss 302', 'Parnelli Jones vs. Mark Donohue'],
   },
@@ -295,7 +295,7 @@ export const RACING_CATEGORIES = [
     id: 'drag-racing',
     title: 'NHRA Drag Racing & Super Stock',
     era: '1968 – Present',
-    image: '/images/mustangs/1967-shelby-gt500-blue.jpg',
+    image: 'images/mustangs/1967-shelby-gt500-blue.jpg',
     description: 'From the first 1968 428 Cobra Jet Winternationals clean sweep to modern 330-mph nitro Funny Cars and factory Cobra Jet turnkey drag racers.',
     highlights: ['1968 Pomona Winternationals victory', 'Factory Super Cobra Jet program', '16 NHRA Titles with John Force'],
   },
@@ -311,7 +311,7 @@ export const RACING_CATEGORIES = [
     id: 'nascar',
     title: 'NASCAR Cup Series',
     era: '2019 – Present',
-    image: '/images/gallery/ingaklas-automobile-3344988_1920.jpg',
+    image: 'images/gallery/ingaklas-automobile-3344988_1920.jpg',
     description: 'The Ford Mustang became the flagship body style in America’s premier stock car championship, capturing multiple driver and manufacturer titles.',
     highlights: ['Joey Logano 2022 & 2024 Cup Championships', 'Ryan Blaney 2023 Cup Championship', 'Daytona 500 triumphs'],
   },

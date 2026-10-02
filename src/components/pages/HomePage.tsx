@@ -199,7 +199,7 @@ export function HomePage() {
             <div className="lg:col-span-6 relative">
               <div className="relative rounded-lg overflow-hidden border border-white/15 shadow-2xl group">
                 <img
-                  src="/images/mustangs/1965-mustang-wimbledon-white.jpg"
+                  src="images/mustangs/1965-mustang-wimbledon-white.jpg"
                   alt="Mustang I Prototype and early styling"
                   className="w-full h-[420px] object-cover filter saturate-[0.85] group-hover:scale-105 transition-transform duration-700"
                 />
@@ -419,7 +419,7 @@ export function HomePage() {
             <div className="lg:col-span-6 relative">
               <div className="relative rounded-lg overflow-hidden border border-white/15 shadow-2xl">
                 <img
-                  src="/images/mustangs/1969-boss302-transam-racing.jpg"
+                  src="images/mustangs/1969-boss302-transam-racing.jpg"
                   alt="Trans-Am Mustang at Laguna Seca"
                   className="w-full h-[440px] object-cover filter contrast-110"
                 />
